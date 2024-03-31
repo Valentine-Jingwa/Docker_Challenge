@@ -1,4 +1,3 @@
-# docker-challenge-template
 # Project Name: Dockerized Node.js Application with Nginx
 
 ## Overview
