@@ -45,10 +45,10 @@ You can customize the application by editing the `server.js` file for backend ch
 We welcome contributions, and any feedback or suggestions can be submitted as pull requests or issues within this repository.
 
 ## Troubleshooting
-If you encounter any issues, please review the Docker Compose logs or contact [Maintainer Name] at [Contact Information].
+If you encounter any issues, please review the Docker Compose logs or contact [Valentine Jingwa] at [Hahaha Sike].
 
 ## License
-This project is licensed under the [License Name] - see the LICENSE.md file for details.
+This project is licensed under the [MIT License] - see the LICENSE.md file for details.
 
 ---
-Documentation created by [Your Name] on [Date]. For more information or queries, please contact [Your Contact Information].
+Documentation created by [Valentine] on [March 31st]. For more information or queries, please contact [Sike Nope].
