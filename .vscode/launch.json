@@ -1,0 +1,17 @@
+{
+    "configurations": [
+        {
+            "command": "sqlplus start",
+            "name": "Run sqlplus start",
+            "request": "launch",
+            "type": "node-terminal"
+        },
+        {
+            "name": "Docker Node.js Launch",
+            "type": "docker",
+            "request": "launch",
+            "preLaunchTask": "docker-run: debug",
+            "platform": "node"
+        }
+    ]
+}
